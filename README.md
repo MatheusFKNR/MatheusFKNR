@@ -2,6 +2,7 @@
 
 ![MatheusFKNR GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFKNR&show_icons=true&theme=onedark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFKNR&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
