@@ -12,4 +12,4 @@
 
 Apaixonado por tecnologia, estudo todos os dias em busca de melhorar gradativamente para poder ajudar mais pessoas e empresas com o conhecimento adquirido.
 
-## Estudando no momento : JQ e Bootstrap
+## Estudando no momento : Firebase
